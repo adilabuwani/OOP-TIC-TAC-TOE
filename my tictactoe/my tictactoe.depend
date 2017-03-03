@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1431412138 source:c:\users\user\desktop\my tictactoe\main.cpp
+	<iostream>
+
+1431577627 source:f:\my tictactoe\main.cpp
+	<iostream>
+	"Game.h"
+
+1431900444 source:c:\users\administrator\desktop\my tictactoe\game.cpp
+	"Game.h"
+	<iostream>
+
+1432010212 c:\users\administrator\desktop\my tictactoe\game.h
+
+1431896595 source:c:\users\administrator\desktop\my tictactoe\main.cpp
+	<iostream>
+	"Game.h"
+
+1431577536 source:f:\my tictactoe\game.cpp
+	"Game.h"
+	<iostream>
+
+1431577267 f:\my tictactoe\game.h
+
+1432007596 source:c:\users\administrator\desktop\my tictactoe\computerai.cpp
+	"Game.h"
+	"ComputerAI.h"
+	<iostream>
+	<cstdlib>
+
+1432010448 c:\users\administrator\desktop\my tictactoe\computerai.h
+
+1432046887 source:c:\users\b331-u6\desktop\my tictactoe\computerai.cpp
+	"Game.h"
+	"ComputerAI.h"
+	<iostream>
+	<cstdlib>
+
+1432051475 c:\users\b331-u6\desktop\my tictactoe\game.h
+
+1432010448 c:\users\b331-u6\desktop\my tictactoe\computerai.h
+
+1432052184 source:c:\users\b331-u6\desktop\my tictactoe\game.cpp
+	"Game.h"
+	<iostream>
+	<cstdlib>
+
+1432052006 source:c:\users\b331-u6\desktop\my tictactoe\main.cpp
+	<iostream>
+	"Game.h"
+
